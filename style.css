@@ -1,0 +1,35 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  font-family: Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+}
+
+.outer {
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 250px;
+  padding-bottom: 600px;
+  background-color: black;
+}
+
+.booger {
+  display: inline-block;
+  width: 49%;
+  height: 100%;
+  font-size: 40px;
+  font-weight: 900;
+  margin: 0px 30px;
+  background-color: transparent;
+  opacity: 0.1;
+  transition: opacity 0.3s ease-in-out;
+  margin-bottom: 50px;
+  color: white;
+}
+.booger.scrolled {
+  opacity: 1;
+}
