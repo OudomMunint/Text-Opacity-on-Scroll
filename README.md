@@ -3,4 +3,6 @@ Text Opacity on Scrolling animation found on airpods pro 2 page near the top.
 Currently opacity changing from 0.2 to 1 works when scrolling down.
 Currently opacity chagning from 1 to 0.2 works ONLY when scrolling up.
 Opacity changing from 1 to 0.2 to text doesn't work when scrolling down.
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<br>
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150" height="150" />
